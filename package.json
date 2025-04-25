@@ -1,0 +1,29 @@
+{
+  "name": "karthik-react",
+  "version": "1.0.0",
+  "description": "This is karthik-react by Karthikeyan Subramani",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/karthikeyansubramani-it/karthik-react.git"
+  },
+  "keywords": [],
+  "author": "Karthikeyan Subramani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthikeyansubramani-it/karthik-react/issues"
+  },
+  "homepage": "https://github.com/karthikeyansubramani-it/karthik-react#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist":[
+    "last 2 chrome version"
+  ]
+}
